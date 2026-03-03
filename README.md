@@ -2,3 +2,7 @@
 For now, this will be the tutorial as provided.
 
 Godot updates into the tutorial game folder. The tutorial will be followed and then modified to make sure my knowledge of what is affected is good.
+
+**Important**
+Godot application does not automatically update into github. Pull and then reopen.
+
