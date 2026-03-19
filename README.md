@@ -6,3 +6,5 @@ Godot updates into the tutorial game folder. The tutorial will be followed and t
 **Important**
 Godot application does not automatically update into github. Pull and then reopen.
 
+
+Changing to the 3D tutorial - check if entire new files are needed or if the empty new file is fine.
